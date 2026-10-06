@@ -1,0 +1,8 @@
+{
+  "name": "TNC Nursing",
+  "description": "Video lectures, e-notes, and test series for NORCET, AIIMS, CHO, and nursing exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
